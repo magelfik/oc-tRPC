@@ -1,4 +1,4 @@
-local rpcServer = require("rpcServer")
+local rpcServer = require("rpc").server
 
 local SECRET_PIN = "171263"
 

@@ -1,4 +1,4 @@
-local rpc = require("rpc")
+local rpc = require("rpc").client
 
 io.write("RPC server alias: ")
 local serverAlias = io.read()
